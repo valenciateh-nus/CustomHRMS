@@ -1,0 +1,56 @@
+.buttons {
+    display: inline-block;
+}
+
+.edit-btn {
+    display: block;
+    float:right;
+}
+.startingCalendar {
+    display: inline;
+    position: relative;
+    margin-left: 14px;
+    height: 30px;
+    width: 170px;
+    text-align: center;
+}
+
+.endingCalendar {
+    display: flex;
+    position: relative;
+    margin-left: 14px;
+    height: 30px;
+    width: 170px;
+    text-align: center;
+}
+
+.dateBox {
+    margin-top: 5px;
+}
+
+.edit-form-btn {
+    display: inline-block;
+    width: 70%;
+}
+
+.warning-box{
+    border: 1px double black;
+    margin-top: 10px;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.successful-box{
+    border: 1px double black;
+    margin-top: 10px;
+    padding: 10px;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+
+.switch-btn {
+    margin:8px;
+}
